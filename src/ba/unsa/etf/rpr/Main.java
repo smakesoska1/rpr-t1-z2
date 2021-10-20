@@ -13,7 +13,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        int n = 0;
+        int n ;
         Scanner ulaz = new Scanner(System.in);
         System.out.println("Unesite n: ");
         n = ulaz.nextInt();
